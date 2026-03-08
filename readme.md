@@ -1,4 +1,4 @@
-# Panduan Binary AITF Engine
+# Panduan Penggunaan AITF Crawler Engine
 
 Dokumen ini berisi panduan **khusus penggunaan binary** di Windows, Linux, dan macOS.
 
