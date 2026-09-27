@@ -4,6 +4,9 @@
 
 ### Windows 10/11 (PowerShell)
 ```powershell
+# Pergi ke direktori Windows
+cd Windows
+
 # install Chrome + ChromeDriver
 .\windows-installer.ps1
 
@@ -13,6 +16,8 @@
 
 ### Linux (Ubuntu/Debian)
 ```bash
+cd Linux
+
 chmod +x linux-installer.sh
 ./linux-installer.sh
 ```
@@ -23,6 +28,8 @@ source ~/.bashrc
 
 ### macOS
 ```bash
+cd MacOS
+
 chmod +x macos-installer.sh
 ./macos-installer.sh
 ```
